@@ -1,8 +1,8 @@
-## Hi there 👋
+Hi there 👋
 
 My name is Jacob Junker!
 
 20 years old!
 
-Majoring in Computer Science (BACS)
+Majoring in Computer Science (BACS) at Wright State University.
 
