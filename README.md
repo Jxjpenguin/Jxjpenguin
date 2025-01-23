@@ -2,7 +2,7 @@
 
 My name is Jacob Junker!
 
-I'm 20 years old!>
+I'm 20 years old! 
 
 I'm currently Majoring in Computer Science (BACS) at Wright State University. 💻
 
